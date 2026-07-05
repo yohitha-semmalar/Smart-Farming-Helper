@@ -1,0 +1,581 @@
+{
+  "cereals": {
+    "Rice": {
+      "irrigation": {
+        "method": "Flooding/Continuous submergence",
+        "frequency": "Continuous flooding for first 30 days, then top up every 2-3 days",
+        "water_requirement": "1000-1200 mm per season",
+        "critical_stages": "Tillering, panicle initiation, flowering, grain filling",
+        "tips": "Maintain 5-10 cm water level. Drain field 10 days before harvest."
+      },
+      "fertilizer": {
+        "nitrogen": "120-150 kg/ha",
+        "phosphorus": "40-60 kg/ha",
+        "potassium": "40-60 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 50% K at planting",
+          "Tillering: 25% N at 20-25 days",
+          "Panicle initiation: 25% N, 50% K at 40-45 days"
+        ],
+        "organic": "FYM 10-12 tons/ha or compost 5 tons/ha as basal"
+      }
+    },
+    "Ragi": {
+      "irrigation": {
+        "method": "Furrow/Drip irrigation",
+        "frequency": "Every 7-10 days depending on soil type",
+        "water_requirement": "350-450 mm per season",
+        "critical_stages": "Seedling, tillering, flowering, grain filling",
+        "tips": "Avoid waterlogging. Light irrigation during grain filling."
+      },
+      "fertilizer": {
+        "nitrogen": "50-75 kg/ha",
+        "phosphorus": "40-50 kg/ha",
+        "potassium": "25-40 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 100% K at sowing",
+          "Top dressing: 50% N at 30-35 days"
+        ],
+        "organic": "FYM 7-8 tons/ha as basal"
+      }
+    },
+    "Maize": {
+      "irrigation": {
+        "method": "Furrow/Sprinkler/Drip",
+        "frequency": "Every 7-10 days, more frequent during critical stages",
+        "water_requirement": "500-800 mm per season",
+        "critical_stages": "Knee-high stage, tasseling, silking, grain filling",
+        "tips": "Ensure adequate moisture from tasseling to grain filling."
+      },
+      "fertilizer": {
+        "nitrogen": "120-150 kg/ha",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "40-60 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 50% K at sowing",
+          "First top dressing: 25% N at 25-30 days",
+          "Second top dressing: 25% N, 50% K at 45-50 days"
+        ],
+        "organic": "FYM 10 tons/ha as basal"
+      }
+    },
+    "Pearl millet": {
+      "irrigation": {
+        "method": "Furrow/Sprinkler",
+        "frequency": "Every 10-12 days",
+        "water_requirement": "300-400 mm per season",
+        "critical_stages": "Tillering, flowering, grain formation",
+        "tips": "Drought tolerant but responds well to irrigation at critical stages."
+      },
+      "fertilizer": {
+        "nitrogen": "60-80 kg/ha",
+        "phosphorus": "40-50 kg/ha",
+        "potassium": "20-30 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 100% K at sowing",
+          "Top dressing: 50% N at 30 days"
+        ],
+        "organic": "FYM 5-6 tons/ha as basal"
+      }
+    },
+    "Millets": {
+      "irrigation": {
+        "method": "Furrow/Sprinkler",
+        "frequency": "Every 10-15 days",
+        "water_requirement": "300-450 mm per season",
+        "critical_stages": "Tillering, flowering, grain filling",
+        "tips": "Highly drought tolerant. Avoid excess water."
+      },
+      "fertilizer": {
+        "nitrogen": "40-60 kg/ha",
+        "phosphorus": "30-40 kg/ha",
+        "potassium": "20-30 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 100% K at sowing",
+          "Top dressing: 50% N at 25-30 days"
+        ],
+        "organic": "FYM 5 tons/ha as basal"
+      }
+    }
+  },
+  "fruits": {
+    "Banana": {
+      "irrigation": {
+        "method": "Drip/Basin irrigation",
+        "frequency": "Every 3-4 days in summer, 7-10 days in winter",
+        "water_requirement": "1800-2500 mm per year",
+        "critical_stages": "Vegetative growth, flowering, fruit development",
+        "tips": "High water requirement. Mulching helps retain moisture."
+      },
+      "fertilizer": {
+        "nitrogen": "200-300 kg/ha/year",
+        "phosphorus": "60-90 kg/ha/year",
+        "potassium": "300-400 kg/ha/year",
+        "application_schedule": [
+          "Month 1-2: 20% N, 20% P, 20% K",
+          "Month 3-4: 30% N, 30% P, 30% K",
+          "Month 5-6: 30% N, 30% P, 30% K",
+          "Month 7-8: 20% N, 20% P, 20% K"
+        ],
+        "organic": "FYM 20-25 kg/plant or vermicompost 5 kg/plant annually"
+      }
+    },
+    "Mango": {
+      "irrigation": {
+        "method": "Basin/Ring/Drip irrigation",
+        "frequency": "Every 10-15 days, stop during flowering",
+        "water_requirement": "800-1200 mm per year",
+        "critical_stages": "Fruit development, avoid during flowering",
+        "tips": "Withhold water 2-3 months before flowering. Resume after fruit set."
+      },
+      "fertilizer": {
+        "nitrogen": "500-1000 g/tree/year",
+        "phosphorus": "250-500 g/tree/year",
+        "potassium": "500-1000 g/tree/year",
+        "application_schedule": [
+          "May-June: 50% N, 100% P, 50% K",
+          "September-October: 50% N, 50% K"
+        ],
+        "organic": "FYM 50 kg/tree annually"
+      }
+    },
+    "Coconut": {
+      "irrigation": {
+        "method": "Basin/Drip irrigation",
+        "frequency": "Every 4-7 days in summer, 10-15 days in winter",
+        "water_requirement": "1200-1500 mm per year",
+        "critical_stages": "Throughout the year, especially summer",
+        "tips": "Mulching with coconut leaves helps moisture retention."
+      },
+      "fertilizer": {
+        "nitrogen": "500-600 g/palm/year",
+        "phosphorus": "250-350 g/palm/year",
+        "potassium": "1000-1500 g/palm/year",
+        "application_schedule": [
+          "Split into 2 doses: Pre-monsoon and post-monsoon",
+          "Apply in circular trenches 1.5-2 m from trunk"
+        ],
+        "organic": "Green manure in basin, 25 kg compost/palm annually"
+      }
+    },
+    "Guava": {
+      "irrigation": {
+        "method": "Basin/Drip irrigation",
+        "frequency": "Every 7-10 days, more frequent during fruiting",
+        "water_requirement": "700-1000 mm per year",
+        "critical_stages": "Flowering, fruit development",
+        "tips": "Reduce irrigation during flower bud formation."
+      },
+      "fertilizer": {
+        "nitrogen": "300-500 g/tree/year",
+        "phosphorus": "150-250 g/tree/year",
+        "potassium": "300-500 g/tree/year",
+        "application_schedule": [
+          "Split into 3 doses: February, June, October",
+          "Apply in ring around the tree"
+        ],
+        "organic": "FYM 20-25 kg/tree annually"
+      }
+    },
+    "Papaya": {
+      "irrigation": {
+        "method": "Drip/Basin irrigation",
+        "frequency": "Every 3-5 days, daily in summer",
+        "water_requirement": "1200-1500 mm per year",
+        "critical_stages": "Throughout growth, especially during fruiting",
+        "tips": "Avoid waterlogging. Maintain consistent moisture."
+      },
+      "fertilizer": {
+        "nitrogen": "200-250 g/plant/month",
+        "phosphorus": "150-200 g/plant/month",
+        "potassium": "300-400 g/plant/month",
+        "application_schedule": [
+          "Apply monthly from 2 months after planting",
+          "Increase dose during fruiting"
+        ],
+        "organic": "Vermicompost 2 kg/plant monthly"
+      }
+    },
+    "Sapota": {
+      "irrigation": {
+        "method": "Basin/Drip irrigation",
+        "frequency": "Every 7-12 days depending on season",
+        "water_requirement": "800-1200 mm per year",
+        "critical_stages": "Flowering, fruit development",
+        "tips": "Young plants need more frequent irrigation."
+      },
+      "fertilizer": {
+        "nitrogen": "400-600 g/tree/year",
+        "phosphorus": "200-300 g/tree/year",
+        "potassium": "400-600 g/tree/year",
+        "application_schedule": [
+          "Split into 2-3 doses during growing season",
+          "Apply before flowering and during fruit development"
+        ],
+        "organic": "FYM 25-30 kg/tree annually"
+      }
+    }
+  },
+  "vegetables": {
+    "Tomato": {
+      "irrigation": {
+        "method": "Drip/Furrow irrigation",
+        "frequency": "Every 3-5 days, more frequent during fruiting",
+        "water_requirement": "400-600 mm per season",
+        "critical_stages": "Flowering, fruit setting, fruit development",
+        "tips": "Avoid water stress during flowering. Reduce before harvest."
+      },
+      "fertilizer": {
+        "nitrogen": "100-150 kg/ha",
+        "phosphorus": "50-75 kg/ha",
+        "potassium": "75-100 kg/ha",
+        "application_schedule": [
+          "Basal: 30% N, 100% P, 30% K at transplanting",
+          "First top dressing: 35% N, 35% K at 30 days",
+          "Second top dressing: 35% N, 35% K at 50 days"
+        ],
+        "organic": "FYM 15-20 tons/ha as basal"
+      }
+    },
+    "Onion": {
+      "irrigation": {
+        "method": "Furrow/Drip irrigation",
+        "frequency": "Every 5-7 days, stop 10 days before harvest",
+        "water_requirement": "350-550 mm per season",
+        "critical_stages": "Bulb formation, bulb development",
+        "tips": "Light frequent irrigation during bulb formation."
+      },
+      "fertilizer": {
+        "nitrogen": "100-120 kg/ha",
+        "phosphorus": "50-60 kg/ha",
+        "potassium": "100-120 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 50% K at planting",
+          "First top dressing: 25% N, 25% K at 30 days",
+          "Second top dressing: 25% N, 25% K at 45 days"
+        ],
+        "organic": "FYM 15 tons/ha as basal"
+      }
+    },
+    "Brinjal": {
+      "irrigation": {
+        "method": "Drip/Furrow irrigation",
+        "frequency": "Every 5-7 days",
+        "water_requirement": "400-500 mm per season",
+        "critical_stages": "Flowering, fruit development",
+        "tips": "Maintain consistent moisture throughout growing period."
+      },
+      "fertilizer": {
+        "nitrogen": "120-150 kg/ha",
+        "phosphorus": "60-75 kg/ha",
+        "potassium": "60-75 kg/ha",
+        "application_schedule": [
+          "Basal: 40% N, 100% P, 40% K at transplanting",
+          "First top dressing: 30% N, 30% K at 30 days",
+          "Second top dressing: 30% N, 30% K at 60 days"
+        ],
+        "organic": "FYM 20 tons/ha as basal"
+      }
+    },
+    "Leafy greens": {
+      "irrigation": {
+        "method": "Sprinkler/Drip irrigation",
+        "frequency": "Every 2-3 days",
+        "water_requirement": "250-350 mm per season",
+        "critical_stages": "Throughout growth for tender leaves",
+        "tips": "Light frequent irrigation for continuous tender growth."
+      },
+      "fertilizer": {
+        "nitrogen": "80-100 kg/ha",
+        "phosphorus": "40-50 kg/ha",
+        "potassium": "40-50 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 100% K at sowing",
+          "Top dressing: 50% N at 20 days"
+        ],
+        "organic": "FYM 10-12 tons/ha as basal, vermicompost for quick growth"
+      }
+    },
+    "Okra": {
+      "irrigation": {
+        "method": "Furrow/Drip irrigation",
+        "frequency": "Every 5-7 days in summer, 10-12 days in winter",
+        "water_requirement": "350-450 mm per season",
+        "critical_stages": "Flowering, pod formation",
+        "tips": "Consistent moisture needed for tender pods."
+      },
+      "fertilizer": {
+        "nitrogen": "80-100 kg/ha",
+        "phosphorus": "50-60 kg/ha",
+        "potassium": "50-60 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 50% K at sowing",
+          "First top dressing: 25% N, 25% K at 30 days",
+          "Second top dressing: 25% N, 25% K at 50 days"
+        ],
+        "organic": "FYM 12-15 tons/ha as basal"
+      }
+    },
+    "Chillies": {
+      "irrigation": {
+        "method": "Drip/Furrow irrigation",
+        "frequency": "Every 5-7 days",
+        "water_requirement": "400-600 mm per season",
+        "critical_stages": "Flowering, fruit setting, fruit development",
+        "tips": "Avoid water stress during flowering."
+      },
+      "fertilizer": {
+        "nitrogen": "100-150 kg/ha",
+        "phosphorus": "50-75 kg/ha",
+        "potassium": "50-75 kg/ha",
+        "application_schedule": [
+          "Basal: 40% N, 100% P, 40% K at transplanting",
+          "First top dressing: 30% N, 30% K at 30 days",
+          "Second top dressing: 30% N, 30% K at 60 days"
+        ],
+        "organic": "FYM 15-20 tons/ha as basal"
+      }
+    },
+    "Drumstick": {
+      "irrigation": {
+        "method": "Basin/Drip irrigation",
+        "frequency": "Every 10-15 days, weekly during summer",
+        "water_requirement": "600-800 mm per year",
+        "critical_stages": "Flowering, pod development",
+        "tips": "Drought tolerant but needs water during flowering."
+      },
+      "fertilizer": {
+        "nitrogen": "200-250 g/tree/year",
+        "phosphorus": "100-150 g/tree/year",
+        "potassium": "200-250 g/tree/year",
+        "application_schedule": [
+          "Split into 2-3 doses during growing season",
+          "Apply before flowering"
+        ],
+        "organic": "FYM 10-15 kg/tree annually"
+      }
+    },
+    "Beans": {
+      "irrigation": {
+        "method": "Drip/Furrow irrigation",
+        "frequency": "Every 5-7 days",
+        "water_requirement": "300-400 mm per season",
+        "critical_stages": "Flowering, pod formation",
+        "tips": "Avoid waterlogging. Critical during flowering."
+      },
+      "fertilizer": {
+        "nitrogen": "25-30 kg/ha (legume, fixes own nitrogen)",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "40-50 kg/ha",
+        "application_schedule": [
+          "Basal: 100% N, 100% P, 100% K at sowing",
+          "Rhizobium culture application recommended"
+        ],
+        "organic": "FYM 8-10 tons/ha as basal"
+      }
+    },
+    "Cabbage": {
+      "irrigation": {
+        "method": "Drip/Furrow irrigation",
+        "frequency": "Every 5-7 days",
+        "water_requirement": "400-500 mm per season",
+        "critical_stages": "Head formation",
+        "tips": "Consistent moisture for quality heads."
+      },
+      "fertilizer": {
+        "nitrogen": "120-150 kg/ha",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "80-100 kg/ha",
+        "application_schedule": [
+          "Basal: 40% N, 100% P, 40% K at transplanting",
+          "First top dressing: 30% N, 30% K at 25 days",
+          "Second top dressing: 30% N, 30% K at 45 days"
+        ],
+        "organic": "FYM 20 tons/ha as basal"
+      }
+    },
+    "Carrot": {
+      "irrigation": {
+        "method": "Sprinkler/Drip irrigation",
+        "frequency": "Every 5-7 days",
+        "water_requirement": "350-450 mm per season",
+        "critical_stages": "Root development",
+        "tips": "Light frequent irrigation for straight root development."
+      },
+      "fertilizer": {
+        "nitrogen": "80-100 kg/ha",
+        "phosphorus": "50-60 kg/ha",
+        "potassium": "80-100 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 50% K at sowing",
+          "First top dressing: 25% N, 25% K at 30 days",
+          "Second top dressing: 25% N, 25% K at 50 days"
+        ],
+        "organic": "Well-decomposed FYM 15 tons/ha as basal"
+      }
+    }
+  },
+  "cash_crops": {
+    "Sugarcane": {
+      "irrigation": {
+        "method": "Furrow/Drip irrigation",
+        "frequency": "Every 7-10 days, more frequent in summer",
+        "water_requirement": "1500-2500 mm per season",
+        "critical_stages": "Germination, tillering, grand growth, maturity",
+        "tips": "High water requirement. Stop irrigation 15 days before harvest."
+      },
+      "fertilizer": {
+        "nitrogen": "250-300 kg/ha",
+        "phosphorus": "80-100 kg/ha",
+        "potassium": "100-120 kg/ha",
+        "application_schedule": [
+          "Basal: 25% N, 100% P, 25% K at planting",
+          "First top dressing: 25% N, 25% K at 30 days",
+          "Second top dressing: 25% N, 25% K at 60 days",
+          "Third top dressing: 25% N, 25% K at 90 days"
+        ],
+        "organic": "FYM 25 tons/ha or press mud 10 tons/ha as basal"
+      }
+    },
+    "Groundnut": {
+      "irrigation": {
+        "method": "Furrow/Sprinkler/Drip",
+        "frequency": "Every 10-12 days",
+        "water_requirement": "400-500 mm per season",
+        "critical_stages": "Flowering, pegging, pod development",
+        "tips": "Critical irrigation at flowering and pod formation."
+      },
+      "fertilizer": {
+        "nitrogen": "20-25 kg/ha (legume, fixes nitrogen)",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "40-50 kg/ha",
+        "application_schedule": [
+          "Basal: 100% N, 100% P, 50% K at sowing",
+          "Top dressing: 50% K at 30 days",
+          "Gypsum: 400 kg/ha at flowering for calcium"
+        ],
+        "organic": "FYM 10 tons/ha, Rhizobium culture application"
+      }
+    },
+    "Turmeric": {
+      "irrigation": {
+        "method": "Drip/Furrow irrigation",
+        "frequency": "Every 7-10 days, stop 1 month before harvest",
+        "water_requirement": "1200-1500 mm per season",
+        "critical_stages": "Rhizome formation, rhizome bulking",
+        "tips": "Mulching helps moisture retention."
+      },
+      "fertilizer": {
+        "nitrogen": "100-120 kg/ha",
+        "phosphorus": "50-60 kg/ha",
+        "potassium": "80-100 kg/ha",
+        "application_schedule": [
+          "Basal: 30% N, 100% P, 30% K at planting",
+          "First top dressing: 35% N, 35% K at 45 days",
+          "Second top dressing: 35% N, 35% K at 90 days"
+        ],
+        "organic": "FYM 25-30 tons/ha as basal"
+      }
+    },
+    "Cotton": {
+      "irrigation": {
+        "method": "Furrow/Drip irrigation",
+        "frequency": "Every 12-15 days",
+        "water_requirement": "600-800 mm per season",
+        "critical_stages": "Flowering, boll formation, boll development",
+        "tips": "Stop irrigation at boll opening stage."
+      },
+      "fertilizer": {
+        "nitrogen": "120-150 kg/ha",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "60-80 kg/ha",
+        "application_schedule": [
+          "Basal: 25% N, 100% P, 25% K at sowing",
+          "First top dressing: 25% N, 25% K at 30 days",
+          "Second top dressing: 25% N, 25% K at 60 days",
+          "Third top dressing: 25% N, 25% K at 90 days"
+        ],
+        "organic": "FYM 12-15 tons/ha as basal"
+      }
+    }
+  },
+  "ornamental": {
+    "Marigold": {
+      "irrigation": {
+        "method": "Drip/Sprinkler irrigation",
+        "frequency": "Every 3-5 days",
+        "water_requirement": "300-400 mm per season",
+        "critical_stages": "Flowering",
+        "tips": "Regular irrigation for continuous flowering."
+      },
+      "fertilizer": {
+        "nitrogen": "80-100 kg/ha",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "60-80 kg/ha",
+        "application_schedule": [
+          "Basal: 50% N, 100% P, 50% K at transplanting",
+          "Top dressing: 50% N, 50% K at 30 days"
+        ],
+        "organic": "FYM 15 tons/ha as basal"
+      }
+    },
+    "Rose": {
+      "irrigation": {
+        "method": "Drip/Basin irrigation",
+        "frequency": "Every 3-5 days, daily in summer",
+        "water_requirement": "800-1000 mm per year",
+        "critical_stages": "Bud formation, flowering",
+        "tips": "Consistent moisture for quality blooms."
+      },
+      "fertilizer": {
+        "nitrogen": "150-200 kg/ha/year",
+        "phosphorus": "80-100 kg/ha/year",
+        "potassium": "100-120 kg/ha/year",
+        "application_schedule": [
+          "Split into monthly applications during growing season",
+          "Increase during flowering"
+        ],
+        "organic": "FYM 20 tons/ha annually, vermicompost 5 tons/ha"
+      }
+    },
+    "Jasmine": {
+      "irrigation": {
+        "method": "Drip/Basin irrigation",
+        "frequency": "Every 3-5 days",
+        "water_requirement": "700-900 mm per year",
+        "critical_stages": "Flowering",
+        "tips": "Regular irrigation for continuous flowering."
+      },
+      "fertilizer": {
+        "nitrogen": "100-150 kg/ha/year",
+        "phosphorus": "50-75 kg/ha/year",
+        "potassium": "75-100 kg/ha/year",
+        "application_schedule": [
+          "Split into 4-6 doses during growing season",
+          "Apply monthly during peak flowering"
+        ],
+        "organic": "FYM 15-20 tons/ha annually"
+      }
+    },
+    "Chrysanthemum": {
+      "irrigation": {
+        "method": "Drip/Sprinkler irrigation",
+        "frequency": "Every 3-5 days",
+        "water_requirement": "400-500 mm per season",
+        "critical_stages": "Vegetative growth, bud formation, flowering",
+        "tips": "Avoid overhead irrigation during flowering."
+      },
+      "fertilizer": {
+        "nitrogen": "100-120 kg/ha",
+        "phosphorus": "60-80 kg/ha",
+        "potassium": "80-100 kg/ha",
+        "application_schedule": [
+          "Basal: 40% N, 100% P, 40% K at planting",
+          "First top dressing: 30% N, 30% K at 30 days",
+          "Second top dressing: 30% N, 30% K at 60 days"
+        ],
+        "organic": "FYM 15 tons/ha as basal"
+      }
+    }
+  }
+}

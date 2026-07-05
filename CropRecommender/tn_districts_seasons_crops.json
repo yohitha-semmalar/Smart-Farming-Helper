@@ -1,0 +1,3893 @@
+{
+  "Ariyalur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Chengalpattu": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Chennai": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Coimbatore": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Cuddalore": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Dharmapuri": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Dindigul": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Erode": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Kallakurichi": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Kancheepuram": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Kanniyakumari": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Karur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Krishnagiri": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Madurai": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Mayiladuthurai": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Nagapattinam": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Namakkal": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Nilgiris": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Perambalur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Pudukkottai": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Ramanathapuram": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Ranipet": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Salem": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Sivaganga": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tenkasi": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Thanjavur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Theni": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Thoothukudi": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tiruchirappalli": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tirunelveli": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tirupathur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tiruppur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Onion",
+        "Cabbage",
+        "Carrot"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tiruvallur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tiruvannamalai": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Tiruvarur": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Rice",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Vellore": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Viluppuram": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  },
+  "Virudhunagar": {
+    "1": {
+      "cereal": [
+        "Ragi",
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Guava",
+        "Papaya"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Onion",
+        "Brinjal",
+        "Leafy greens"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Rose"
+      ]
+    },
+    "2": {
+      "cereal": [
+        "Maize",
+        "Pearl millet"
+      ],
+      "fruit": [
+        "Mango",
+        "Sapota"
+      ],
+      "vegetable": [
+        "Okra",
+        "Brinjal",
+        "Tomato",
+        "Chillies"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Jasmine"
+      ]
+    },
+    "3": {
+      "cereal": [
+        "Millets",
+        "Maize"
+      ],
+      "fruit": [
+        "Banana",
+        "Mango",
+        "Coconut"
+      ],
+      "vegetable": [
+        "Drumstick",
+        "Okra",
+        "Tomato",
+        "Beans"
+      ],
+      "cash": [
+        "Groundnut",
+        "Sugarcane"
+      ],
+      "ornamental": [
+        "Marigold",
+        "Chrysanthemum"
+      ]
+    },
+    "4": {
+      "cereal": [
+        "Rice"
+      ],
+      "fruit": [
+        "Banana",
+        "Coconut",
+        "Mango"
+      ],
+      "vegetable": [
+        "Tomato",
+        "Brinjal",
+        "Okra",
+        "Onion"
+      ],
+      "cash": [
+        "Sugarcane",
+        "Groundnut",
+        "Turmeric"
+      ],
+      "ornamental": [
+        "Jasmine",
+        "Marigold",
+        "Rose"
+      ]
+    }
+  }
+}
